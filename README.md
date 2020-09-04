@@ -1,3 +1,4 @@
+> 此版本的 BullshitGenerator 使用 C++20 标准编写。下面是原 repo 的介绍。
 # 狗屁不通文章生成器
 # BullshitGenerator
 
